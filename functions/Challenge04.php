@@ -7,6 +7,5 @@ function multiplyNumbers($a, $b){
         echo "Error: Invalid Input.";
     }
 }
-$result=multiplyNumbers(2,10);
-echo "$result";
+multiplyNumbers(2,10);
 ?>
